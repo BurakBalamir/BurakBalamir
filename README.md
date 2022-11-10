@@ -8,7 +8,7 @@
 ### Hi 👋
 I am interested in writing code, I share my own projects or beautiful projects that I have found in this percentage, if you have any projects, you can contact me. I also really like watching and editing movies.
 
-- 🔨 I'm currently doing code tests on behalf of [AimStrike](https://www.aimstrike.com),[NinjaWare](https://www.ninjaware.net),[BunnyCSGO](https://www.bunnycsgo.com),
+- 🔨 I'm currently doing code tests on behalf of [AimStrike](https://www.aimstrike.com),[NinjaWare](https://www.ninjaware.net),[BunnyCSGO](https://www.bunnycsgo.com).
 - 📚 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [MRX#7395][discord]
 
