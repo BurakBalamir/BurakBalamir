@@ -10,7 +10,7 @@ I am interested in writing code, I share my own projects or beautiful projects t
 
 - 🔨 I'm currently doing code tests on behalf of [AimStrike](https://www.aimstrike.com),[NinjaWare](https://www.ninjaware.net),[Brutality](https://www.brutality.win).
 - 📚 I'm currently learning about cybersecurity.
-- 📫 How to reach me: [MRX#7395][discord]
+- 📫 How to reach me: [MRX#0x539][discord]
 
 
 
